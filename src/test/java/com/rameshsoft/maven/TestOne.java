@@ -16,6 +16,7 @@ public class TestOne {
 		dr.manage().window().maximize();
 		dr.get("https://www.gmail.com");
 		System.out.println("test one is modified");
+		System.out.println("modify one again");
 		Thread.sleep(2000);
 		dr.close();
 	}
