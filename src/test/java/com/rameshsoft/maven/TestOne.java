@@ -17,12 +17,12 @@ public class TestOne {
 		dr.get("https://www.gmail.com");
 		System.out.println("test one is modified");
 		System.out.println("modify one again");
-<<<<<<< HEAD
-		system.out.println("p2 is modify");
-=======
+
+		System.out.println("p2 is modify");
+
 		
 		System.out.println("p1 modified");
->>>>>>> d8cb54e9386ed87b806091c0c5cc74abbe678ffe
+
 		Thread.sleep(2000);
 		dr.close();
 	}
