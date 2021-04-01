@@ -32,6 +32,8 @@ public class TestTwo {
 		driver.manage().window().maximize();
 		driver.get("https://www.rameshsoft.com");
 		System.out.println("navigated  to rameshsoft");
+		System.out.println("modified TestTwo");	
+			
 		Thread.sleep(2000);
 		driver.close();
 		
