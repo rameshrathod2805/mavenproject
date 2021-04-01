@@ -17,10 +17,7 @@ public class TestOne {
 		dr.get("https://www.gmail.com");
 		System.out.println("test one is modified");
 		System.out.println("modify one again");
-
-		System.out.println("p2 is modify");
-
-		
+		System.out.println("p2 is modify");		
 		System.out.println("p1 modified");
 
 		Thread.sleep(2000);
