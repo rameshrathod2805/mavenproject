@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-04-01T02:56:19Z" name="Suite" finished-at="2021-04-01T02:58:10Z" duration-ms="110877">
+    <groups>
+    </groups>
+    <test started-at="2021-04-01T02:56:19Z" name="Test" finished-at="2021-04-01T02:58:10Z" duration-ms="110877">
+      <class name="com.rameshsoft.maven.TestOne">
+        <test-method signature="demo()[pri:0, instance:com.rameshsoft.maven.TestOne@a1f72f5]" started-at="2021-04-01T08:26:19Z" name="demo" finished-at="2021-04-01T08:26:57Z" duration-ms="37541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo -->
+      </class> <!-- com.rameshsoft.maven.TestOne -->
+      <class name="com.rameshsoft.maven.TestTwo">
+        <test-method signature="demo2()[pri:0, instance:com.rameshsoft.maven.TestTwo@4bc222e]" started-at="2021-04-01T08:26:57Z" name="demo2" finished-at="2021-04-01T08:28:10Z" duration-ms="73259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- demo2 -->
+      </class> <!-- com.rameshsoft.maven.TestTwo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
